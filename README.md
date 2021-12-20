@@ -130,6 +130,8 @@ CAPITULO 8
 
 5
 
+![image](https://user-images.githubusercontent.com/93899720/146826150-cedc0cbd-fed2-4514-9695-b31938da3f19.png)
+
 
 7
 
@@ -141,6 +143,10 @@ CAPITULO 8
 
 
 13
+
+![image](https://user-images.githubusercontent.com/93899720/146826325-aa3bec52-5534-4cca-8442-7c194336e625.png)
+
+![image](https://user-images.githubusercontent.com/93899720/146826396-47e100b4-920c-41fa-8d52-013373485086.png)
 
 
 15
