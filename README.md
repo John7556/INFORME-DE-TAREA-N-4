@@ -5,8 +5,12 @@
 
 
 2. MARCO TEÓRICO (RESUMEN)
+3. 
+![Concept Map](https://user-images.githubusercontent.com/93899720/147863625-5f3d4fd5-fe8e-4bed-ac57-4afcbca75355.jpg)
 
+![Concept Map (1)](https://user-images.githubusercontent.com/93899720/147863627-7703425c-7ed9-406b-929a-7f2ecb9af55f.jpg)
 
+![Concept Map (2)](https://user-images.githubusercontent.com/93899720/147863624-7fadc0e8-666a-4c43-bf0a-4f26da1973cc.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 CAPITULO 7
