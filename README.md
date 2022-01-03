@@ -20,11 +20,16 @@ CAPITULO 7
 
 3
 
+![image](https://user-images.githubusercontent.com/93899720/147894777-600c8e6a-54b6-4272-b7e8-56edf853b909.png)
+![image](https://user-images.githubusercontent.com/93899720/147894787-530d8139-de80-43c3-a519-6539886218af.png)
+
 
 5
 
 
 7
+
+![image](https://user-images.githubusercontent.com/93899720/147894798-3b8dc166-74df-44af-b82a-1ec3807c11df.png)
 
 
 9
@@ -33,6 +38,13 @@ CAPITULO 7
 
 
 11
+
+![image](https://user-images.githubusercontent.com/93899720/147894807-e0224cbd-686d-4d98-bf96-45b4d50979ac.png)
+![image](https://user-images.githubusercontent.com/93899720/147894820-41a7c683-ce20-4274-87cf-448ca2d3890c.png)
+![image](https://user-images.githubusercontent.com/93899720/147894831-1ffa8515-717b-4d7f-8605-20258163f450.png)
+![image](https://user-images.githubusercontent.com/93899720/147894837-98367b1f-871b-4b00-83f9-7fb815879864.png)
+![image](https://user-images.githubusercontent.com/93899720/147894844-e40dc064-4465-4b62-993f-8e39528f62ff.png)
+![image](https://user-images.githubusercontent.com/93899720/147894856-7435f23b-838a-4761-9b0d-190f7beb8e7d.png)
 
 
 13
@@ -51,6 +63,8 @@ CAPITULO 7
 
 19
 
+![image](https://user-images.githubusercontent.com/93899720/147894867-b0e1820a-cb04-4289-88e5-19a5aa383da6.png)
+
 
 21
 
@@ -62,6 +76,8 @@ CAPITULO 7
 
 23
 
+![image](https://user-images.githubusercontent.com/93899720/147894876-9682b9fb-6d7a-4059-bc78-7ad0fbd61e9b.png)
+
 
 25
 
@@ -70,6 +86,7 @@ CAPITULO 7
 
 27
 
+![image](https://user-images.githubusercontent.com/93899720/147894885-782c937c-d901-49e7-94ca-86c0a55980e0.png)
 
 
 29
@@ -79,6 +96,8 @@ CAPITULO 7
 
 31
 
+![image](https://user-images.githubusercontent.com/93899720/147894892-1ce33f13-89cd-47fe-8b09-7bfa0436ba93.png)
+![image](https://user-images.githubusercontent.com/93899720/147894894-a9e73618-9d10-459d-a1b8-7c0bc142d211.png)
 
 
 33
@@ -90,6 +109,9 @@ CAPITULO 7
 
 35
 
+![image](https://user-images.githubusercontent.com/93899720/147894903-7fc5eee6-91cf-44bd-97a6-e1f9aadd7c5a.png)
+![image](https://user-images.githubusercontent.com/93899720/147894905-ba2f9314-e93a-4d1f-8e24-9addeeec5a29.png)
+
 
 37
 
@@ -97,6 +119,13 @@ CAPITULO 7
 
 
 39
+
+![image](https://user-images.githubusercontent.com/93899720/147894914-079df539-12c4-4ac9-8f72-9a899448d014.png)
+![image](https://user-images.githubusercontent.com/93899720/147894917-7056b251-0556-4e9e-b86b-1b374cde361d.png)
+![image](https://user-images.githubusercontent.com/93899720/147894921-ac2cfca7-e69d-4b85-aa79-efc30e84d52d.png)
+![image](https://user-images.githubusercontent.com/93899720/147894927-9c78d896-295f-4e4e-821e-a093224fe73c.png)
+![image](https://user-images.githubusercontent.com/93899720/147894930-847e4d6a-ef2c-4344-a62a-39082474e4b4.png)
+![image](https://user-images.githubusercontent.com/93899720/147894935-9cdb2b63-862d-4951-becd-4bb06a2db233.png)
 
 
 41
