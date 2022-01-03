@@ -53,6 +53,10 @@ CAPITULO 7
 
 15
 
+![image](https://user-images.githubusercontent.com/93899720/147898061-17ce7d40-8b75-483c-87d4-9cc81fc105b7.png)
+![image](https://user-images.githubusercontent.com/93899720/147898071-5803859b-a7b5-4750-a788-c7087c79b775.png)
+![image](https://user-images.githubusercontent.com/93899720/147898084-56f21783-c467-425c-9ca7-a570f5b73d89.png)
+
 
 17
 
@@ -133,6 +137,10 @@ CAPITULO 7
 
 
 43
+
+![image](https://user-images.githubusercontent.com/93899720/147898117-39ff0a5c-92c3-454e-9f7e-7efa75f141a8.png)
+![image](https://user-images.githubusercontent.com/93899720/147898123-1dbc64ea-ec87-498a-8993-d6b367e15c28.png)
+![image](https://user-images.githubusercontent.com/93899720/147898127-4bcd81ac-ece3-464d-a8eb-4505214c82ad.png)
 
 
 45
