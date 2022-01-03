@@ -179,6 +179,10 @@ CAPITULO 8
 
 7
 
+![image](https://user-images.githubusercontent.com/93899720/147901173-967331b6-3b39-457e-9de1-e829c73c6aec.png)
+![image](https://user-images.githubusercontent.com/93899720/147901177-e8990338-fa29-4b2f-bc38-f75b1833adac.png)
+![image](https://user-images.githubusercontent.com/93899720/147901201-005cda98-f96b-4548-9b0a-3d8486e5342f.png)
+
 
 9
 
