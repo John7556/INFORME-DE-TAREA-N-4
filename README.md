@@ -126,6 +126,7 @@ CAPITULO 7
 ![image](https://user-images.githubusercontent.com/93899720/147894927-9c78d896-295f-4e4e-821e-a093224fe73c.png)
 ![image](https://user-images.githubusercontent.com/93899720/147894930-847e4d6a-ef2c-4344-a62a-39082474e4b4.png)
 ![image](https://user-images.githubusercontent.com/93899720/147894935-9cdb2b63-862d-4951-becd-4bb06a2db233.png)
+![image](https://user-images.githubusercontent.com/93899720/147895014-7cefd9a6-6ae8-40c7-9edb-3a19d2635229.png)
 
 
 41
