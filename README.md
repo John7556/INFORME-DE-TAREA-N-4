@@ -215,6 +215,8 @@ CAPITULO 8
 
 23
 
+![image](https://user-images.githubusercontent.com/93899720/147903652-8a703527-9880-4255-92bc-dbd9e4282d51.png)
+
 
 25
 
