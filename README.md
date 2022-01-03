@@ -199,6 +199,10 @@ CAPITULO 8
 
 15
 
+![image](https://user-images.githubusercontent.com/93899720/147902497-845108eb-7da5-4316-8e03-adcadd3d16b3.png)
+![image](https://user-images.githubusercontent.com/93899720/147902507-6eb08586-eb8d-491e-b406-3c98471258fb.png)
+![image](https://user-images.githubusercontent.com/93899720/147902523-5fb54b7b-a702-4c57-98bf-8bb2222fb6b7.png)
+
 
 17
 
