@@ -169,6 +169,8 @@ CAPITULO 8
 
 3
 
+![image](https://user-images.githubusercontent.com/93899720/147898245-43ecd55a-af2b-4051-a562-a6bbf91c4438.png)
+
 
 5
 
