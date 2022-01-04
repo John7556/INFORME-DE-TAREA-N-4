@@ -233,6 +233,9 @@ CAPITULO 8
 
 27
 
+![image](https://user-images.githubusercontent.com/93899720/148004410-0ed09fcc-b52d-413f-bc86-4f8e81cd41b4.png)
+![image](https://user-images.githubusercontent.com/93899720/148004422-fce3d18c-ad93-4096-97fd-256f8cc61d06.png)
+
 
 29
 
