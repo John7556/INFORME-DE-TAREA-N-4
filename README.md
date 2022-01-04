@@ -237,6 +237,10 @@ CAPITULO 8
 ![image](https://user-images.githubusercontent.com/93899720/148004422-fce3d18c-ad93-4096-97fd-256f8cc61d06.png)
 
 
+31
+
+![image](https://user-images.githubusercontent.com/93899720/148009761-a046d4f0-cbdd-4073-a6c5-978bcef90e41.png)
+![image](https://user-images.githubusercontent.com/93899720/148009785-cb650669-b253-4a59-a533-e2b7cdd8a455.png)
 
 
 4. VIDEO
