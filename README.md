@@ -216,6 +216,11 @@ CAPITULO 8
 23
 
 ![image](https://user-images.githubusercontent.com/93899720/147903652-8a703527-9880-4255-92bc-dbd9e4282d51.png)
+![image](https://user-images.githubusercontent.com/93899720/147998617-361226e4-9b0d-432f-aa09-4eba272d7f20.png)
+![image](https://user-images.githubusercontent.com/93899720/147998640-e70f5bb7-9f2d-4201-883e-006ee12a880b.png)
+![image](https://user-images.githubusercontent.com/93899720/147998658-b7f636ca-eada-4ecc-9bdb-139673c8fedb.png)
+![image](https://user-images.githubusercontent.com/93899720/147998668-8ac43cbd-dab4-4c11-bde5-6dc9c224f19f.png)
+![image](https://user-images.githubusercontent.com/93899720/147998673-88afdfd2-8a1e-4ee1-93d7-61c24f6b814e.png)
 
 
 25
