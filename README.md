@@ -3,9 +3,25 @@
 
 1. OBJETIVOS
 
+Objetivos:
+
+-	Analizar circuitos en serie-paralelo y los divisores de voltaje con carga
+
+-	Determinar el efecto de carga de un voltímetro en un circuito
+
+-	Analizar y aplicar un puente de Wheatstone
+
+-	Localizar fallas en circuitos en serie-paralelo
+
+-	Describir las características de una fuente de voltaje de cd y de una fuente de corriente
+
+-	Realizar conversiones de fuente
+
+-	Aplicar el teorema de superposición, Thevenin, Norton  y transferencia de potencia máxima
+
 
 2. MARCO TEÓRICO (RESUMEN)
-3. 
+
 ![Concept Map](https://user-images.githubusercontent.com/93899720/147863625-5f3d4fd5-fe8e-4bed-ac57-4afcbca75355.jpg)
 
 ![Concept Map (1)](https://user-images.githubusercontent.com/93899720/147863627-7703425c-7ed9-406b-929a-7f2ecb9af55f.jpg)
@@ -13,7 +29,9 @@
 ![Concept Map (2)](https://user-images.githubusercontent.com/93899720/147863624-7fadc0e8-666a-4c43-bf0a-4f26da1973cc.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 CAPITULO 7
+
 1
 
 ![image](https://user-images.githubusercontent.com/93899720/146823088-dea1b507-cb8c-42cf-a959-e34cacfd4df7.png)
@@ -143,22 +161,6 @@ CAPITULO 7
 ![image](https://user-images.githubusercontent.com/93899720/147898127-4bcd81ac-ece3-464d-a8eb-4505214c82ad.png)
 
 
-45
-
-
-47
-
-
-49
-
-
-51
-
-
-53
-
-
-
 
 CAPITULO 8
 
@@ -228,8 +230,6 @@ CAPITULO 8
 ![image](https://user-images.githubusercontent.com/93899720/147998673-88afdfd2-8a1e-4ee1-93d7-61c24f6b814e.png)
 
 
-25
-
 
 27
 
@@ -237,43 +237,6 @@ CAPITULO 8
 ![image](https://user-images.githubusercontent.com/93899720/148004422-fce3d18c-ad93-4096-97fd-256f8cc61d06.png)
 
 
-29
-
-
-31
-
-
-33
-
-
-35
-
-
-37
-
-
-39
-
-
-41
-
-
-43
-
-
-45
-
-
-47
-
-
-49
-
-
-51
-
-
-53
 
 
 4. VIDEO
@@ -281,6 +244,13 @@ CAPITULO 8
 
 5. CONCLUSIONES
 
+-	Se utilizó la ley de Ohm en circuitos en paralelo; y se aprendió la ley de la corriente de Kirchhoff. Se. Aprendió a determinar la resistencia total en paralelo y a localizar resistores abiertos. Los teoremas y las conversiones facilitan el análisis de ciertos tipos de circuitos. Estos métodos no reemplazan a la ley de Ohm ni a las leyes de Kirchhoff, sino que normalmente se utilizan junto con ellas en ciertas situaciones. El teorema de superposición aborda circuitos que tienen múltiples fuentes. Los teoremas de Thevenin y de Norton ponen al alcance métodos apropiados para reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis. El teorema de transferencia de potencia máxima se utiliza en aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga.
+
 
 6. BIBLIOGRAFÍA
+
+-	Floyd, T. and Navarro Salas, R., 2007. Principios de circuitos eléctricos. México: Pearson Educación Prentice Hall.
+-	C. K. Alexander, M. N. O. Sadiku, “Fundamentos de circuitos eléctricos”, McGraw-Hill. 
+-	R. C. Dorf, J. A. Svoboda, “Introduction to electric circuits”, John Wiley & Sons.
+
 
